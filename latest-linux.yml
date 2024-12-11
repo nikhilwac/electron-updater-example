@@ -1,0 +1,12 @@
+version: 1.1.2
+files:
+  - url: time-tracker-electron-1.1.2.AppImage
+    sha512: ja30qzrpL4JgTIl9L3bVbWyOhVH9k/gKFYnCLjwh/Mhi3LBHOAIvw+oN73+/rr51J7mBkMglTuH/X38+nLi8Jw==
+    size: 137561047
+    blockMapSize: 140267
+  - url: time-tracker-electron_1.1.2_amd64.deb
+    sha512: QekA6qoCVcqUaujJBvEvmh+MIwZMxDUqNqGVCmRLUNZzAV9oVXZLkifBHu+aRgGtcXTKnk6KAuOL6WCkTgbrmw==
+    size: 88923086
+path: time-tracker-electron-1.1.2.AppImage
+sha512: ja30qzrpL4JgTIl9L3bVbWyOhVH9k/gKFYnCLjwh/Mhi3LBHOAIvw+oN73+/rr51J7mBkMglTuH/X38+nLi8Jw==
+releaseDate: "2024-12-11T10:18:14.221Z"
