@@ -1,4 +1,4 @@
-version: 1.1.2
+version: 1.0.0
 files:
   - url: time-tracker-electron-1.1.2.AppImage
     sha512: ja30qzrpL4JgTIl9L3bVbWyOhVH9k/gKFYnCLjwh/Mhi3LBHOAIvw+oN73+/rr51J7mBkMglTuH/X38+nLi8Jw==
